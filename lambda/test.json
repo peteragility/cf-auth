@@ -1,0 +1,40 @@
+{
+    "Records": [
+      {
+        "cf": {
+          "config": {
+            "distributionDomainName": "d30qhonmbrt3z7.cloudfront.net",
+            "distributionId": "EDFDVBD6EXAMPLE",
+            "eventType": "viewer-request",
+            "requestId": "4TyzHTaYWb1GX1qTfsHhEqV6HUDd_BzoBZnwfnvQc_1oF26ClkoUSEQ=="
+          },
+          "request": {
+            "clientIp": "112.118.236.141",
+            "headers": {
+              "host": [
+                {
+                  "key": "Host",
+                  "value": "d30qhonmbrt3z7.cloudfront.net"
+                }
+              ],
+              "user-agent": [
+                {
+                  "key": "User-Agent",
+                  "value": "curl/7.66.0"
+                }
+              ],
+              "accept": [
+                {
+                  "key": "accept",
+                  "value": "*/*"
+                }
+              ]
+            },
+            "method": "GET",
+            "querystring": "",
+            "uri": "/session/15-5-2413-0001000126630415179818/Content/DASH_VOS3/Live/channel-VOS_CH621/a8365ae70e590901ab80a666b12ba8f9_1590969600/manifest.m3u8"
+          }
+        }
+      }
+    ]
+  }
