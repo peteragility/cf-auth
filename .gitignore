@@ -13,3 +13,4 @@ cdk.out
 
 .DS_Store
 lambda/node_modules/**/*
+lambda/template.yaml
